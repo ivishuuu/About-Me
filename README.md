@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivishuuu
 - 👀 I’m interested in ...learning programming and developing my logic for coding.
-- 🌱 I’m currently learning ...HTML, CSS.
+- 🌱 I’m currently learning ...full stack web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
