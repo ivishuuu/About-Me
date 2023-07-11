@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ivishuuu
-- 👀 I’m interested in ...learning programming and developing my logic for coding.
-- 🌱 I’m currently learning ...full stack web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning programming and developing my logic for coding.
+- 🌱 I’m currently learning MERN Stack.
+- 📫 Reach me at vishwajeetvishwash04@gmail.com
 
 <!---
 ivishuuu/ivishuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
