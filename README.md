@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @ivishuuu
-- 👀 I’m interested in learning programming and developing my logic for coding.
-- 🌱 I’m currently learning MERN Stack.
-- 📫 Reach me at vishwajeetvishwash04@gmail.com
+I am a frontend web developer from India.
 
-<!---
-ivishuuu/ivishuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy taking up complex problems and turning them into simple and beautiful interface designs.
+
+I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
